@@ -1,0 +1,72 @@
+================================================================================
+ALININO.AZ BOOKS ANALYSIS REPORT
+================================================================================
+
+Total Books: 1389
+
+PRICE STATISTICS
+----------------------------------------
+Average Price: 14.97 AZN
+Median Price: 12.42 AZN
+Min Price: 0.85 AZN
+Max Price: 71.25 AZN
+Std Dev: 9.81 AZN
+
+DISCOUNT STATISTICS
+----------------------------------------
+Books with Discount: 1389
+Percentage: 100.0%
+Average Discount: 12.0%
+Max Discount: 50%
+
+PAGES STATISTICS
+----------------------------------------
+Average Pages: 331
+Median Pages: 320
+Min Pages: 28
+Max Pages: 1216
+
+RATING STATISTICS
+----------------------------------------
+Books with Rating: 948
+Average Rating: 4.95/5
+
+TOP 10 LANGUAGES
+----------------------------------------
+Azərbaycan: 509
+Rus dili: 351
+İngilis dili: 273
+Türk dili: 253
+
+TOP 10 PUBLISHERS
+----------------------------------------
+Qanun Nəşriyyatı: 403
+Əli və Nino Nəşriyyatı və Qanun Nəşriyyatı: 119
+Эксмо: 77
+АСТ: 61
+Penguin Books Ltd: 37
+Destek Yayınları: 30
+İş Bankası Kültür Yayınları: 27
+Simon & Schuster Ltd: 19
+İndigo Kitap: 19
+HarperCollins Publishers: 16
+
+TOP 10 AUTHORS
+----------------------------------------
+Aqata Kristi: 19
+Colleen Hoover: 18
+Fyodor Dostoyevski: 16
+Stefan Zweig: 16
+Jeff Kinney: 15
+Roald Dahl: 11
+Lev Tolstoy: 11
+J. K. Rowling: 9
+George Orwell: 9
+Yuval Noah Harari: 9
+
+TOP 10 LABELS
+----------------------------------------
+Ekspress: 1384
+Bestseller: 1354
+Satıldı: 576
+Доставка: 1

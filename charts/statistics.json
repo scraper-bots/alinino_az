@@ -1,0 +1,90 @@
+{
+  "total_books": 1389,
+  "price_statistics": {
+    "average": 14.972296616270699,
+    "median": 12.42,
+    "min": 0.85,
+    "max": 71.25,
+    "std": 9.810378861721624
+  },
+  "discount_statistics": {
+    "books_with_discount": 1389,
+    "percentage_with_discount": 100.0,
+    "average_discount": 11.95464362850972,
+    "max_discount": 50.0
+  },
+  "pages_statistics": {
+    "average": 331.08787632221316,
+    "median": 320.0,
+    "min": 28.0,
+    "max": 1216.0
+  },
+  "rating_statistics": {
+    "books_with_rating": 948,
+    "average_rating": 4.9525316455696204,
+    "median_rating": 5.0
+  },
+  "language_distribution": {
+    "Azərbaycan": 509,
+    "Rus dili": 351,
+    "İngilis dili": 273,
+    "Türk dili": 253
+  },
+  "publisher_top_10": {
+    "Qanun Nəşriyyatı": 403,
+    "Əli və Nino Nəşriyyatı və Qanun Nəşriyyatı": 119,
+    "Эксмо": 77,
+    "АСТ": 61,
+    "Penguin Books Ltd": 37,
+    "Destek Yayınları": 30,
+    "İş Bankası Kültür Yayınları": 27,
+    "Simon & Schuster Ltd": 19,
+    "İndigo Kitap": 19,
+    "HarperCollins Publishers": 16
+  },
+  "author_top_10": {
+    "Aqata Kristi": 19,
+    "Colleen Hoover": 18,
+    "Fyodor Dostoyevski": 16,
+    "Stefan Zweig": 16,
+    "Jeff Kinney": 15,
+    "Roald Dahl": 11,
+    "Lev Tolstoy": 11,
+    "J. K. Rowling": 9,
+    "George Orwell": 9,
+    "Yuval Noah Harari": 9
+  },
+  "labels_distribution": {
+    "Ekspress": 1384,
+    "Bestseller": 1354,
+    "Satıldı": 576,
+    "Доставка": 1
+  },
+  "cover_type_distribution": {
+    "Yumşaq": 775,
+    "Paperback": 183,
+    "Твердый": 119,
+    "Bərk": 115,
+    "Мягкий": 95,
+    "Твердая": 26,
+    "Твёрдый": 18,
+    "Hardback": 18,
+    "Твёрдая": 5,
+    "Karton": 5,
+    "İnce kapak": 4,
+    "Hamur": 3,
+    "İnce": 2,
+    "Суперобложка": 2,
+    "yumşaq": 2,
+    "мягкий": 1,
+    "ТвердаяМягкая": 1,
+    "твердый": 1,
+    "Hardcover": 1,
+    "Mягкий": 1,
+    "Super cild": 1
+  },
+  "availability_statistics": {
+    "Mövcuddur": 813,
+    "Mövcud deyil": 576
+  }
+}
